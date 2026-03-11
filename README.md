@@ -23,4 +23,4 @@ It’s a hand‑crafted, performance‑focused showcase of my work, built entire
 
 ---
 
-*This is my personal portfolio – not a template, but feel free to explore the code!*
+*This is my personal portfolio – not a template, but feel free to explore the code and quick updates soon to be there!*
