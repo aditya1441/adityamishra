@@ -18,7 +18,6 @@ It’s a hand‑crafted, performance‑focused showcase of my work, built entire
 ## 📬 Contact
 
 - **Email**: [adityamishra.iitbhu@gmail.com](mailto:adityamishra.iitbhu@gmail.com)
-- **LinkedIn**: [linkedin.com/in/aditya1442](https://linkedin.com/in/aditya1442)
 - **GitHub**: [github.com/aditya1441](https://github.com/aditya1441)
 
 ---
